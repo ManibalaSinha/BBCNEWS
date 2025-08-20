@@ -79,8 +79,4 @@ Tech Stack</p>
     <p>© 2025 Manibala Sinha | Built with  using HTML, CSS & JavaScript</p>
   </footer>
 </body>
-<<<<<<< HEAD
 </html>
-=======
-</html>
->>>>>>> b191c86 (index.html)
